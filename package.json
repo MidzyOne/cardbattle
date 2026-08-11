@@ -1,0 +1,14 @@
+{
+  "name": "kpop-card-battle",
+  "version": "1.0.0",
+  "description": "K-POP 抽卡对战游戏",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "author": "",
+  "license": "MIT"
+}
